@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
-import Login from "./View/Login/Login";
+import Login from "./View";
 import ToDoList from "./View/ToDoList/ToDoList";
 import AboutUs from "./View/AboutUs/AboutUs";
 
